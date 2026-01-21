@@ -25,5 +25,19 @@ A role-based mobile application where:
 ## Architecture Overview
 Flutter UI → Supabase → Backend APIs
 
+## Screenshots
+
+### staff Dashboard
+![Dashboard](screenshots/staffdashboard.png)
+
+### Fund Request Flow
+![Fund Request](screenshots/request-funds-view.png)
+
+### MD Approval
+![Approval](screenshots/approval-flow.png)
+
+### Disburser Approval & Payout
+![Approval](screenshots/approval-flow.png)
+
 ## Note
 This repository is a **demo showcase**. The full production source code is private
