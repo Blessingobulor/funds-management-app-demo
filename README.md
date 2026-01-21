@@ -28,16 +28,16 @@ Flutter UI → Supabase → Backend APIs
 ## Screenshots
 
 ### staff Dashboard
-![Dashboard](screenshots/staffdashboard.png)
+[Dashboard](screenshots/staffdashboard)
 
 ### Fund Request Flow
-![Fund Request](screenshots/request-funds-view.png)
+[Fund Request](screenshots/request-funds-view)
 
 ### MD Approval
-![Approval](screenshots/approval-flow.png)
+[Approval](screenshots/approval-flow)
 
 ### Disburser Approval & Payout
-![Approval](screenshots/approval-flow.png)
+[Approval](screenshots/approval-flow)
 
 ## Note
 This repository is a **demo showcase**. The full production source code is private
